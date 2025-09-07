@@ -17,12 +17,12 @@ export const metadata: Metadata = {
   title: "Cyberpunk Portfolio | Futuristic Web Experience",
   description: "A cutting-edge cyberpunk-themed portfolio showcasing innovative web development skills with futuristic design elements and interactive experiences.",
   keywords: ["cyberpunk", "portfolio", "web development", "futuristic", "neon", "interactive"],
-  authors: [{ name: "Your Name" }],
-  creator: "Your Name",
+  authors: [{ name: "M. ANJAS LEONARDI" }],
+  creator: "M. ANJAS LEONARDI",
   openGraph: {
     title: "Cyberpunk Portfolio | Futuristic Web Experience",
     description: "A cutting-edge cyberpunk-themed portfolio showcasing innovative web development skills with futuristic design elements and interactive experiences.",
-    url: "https://your-portfolio-url.com",
+    url: "https://leonzss-dev.vercel.app",
     siteName: "Cyberpunk Portfolio",
     images: [
       {
