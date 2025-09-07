@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     siteName: "Cyberpunk Portfolio",
     images: [
       {
-        url: "/img/profile.png",
+        url: "https://leonzss-dev.vercel.app/img/profile.png",
         width: 1200,
         height: 630,
         alt: "Cyberpunk Portfolio Preview",
