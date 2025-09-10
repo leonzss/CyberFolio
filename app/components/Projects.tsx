@@ -162,13 +162,7 @@ const Projects = () => {
                 
                 {/* Project Info */}
                 <div className="absolute bottom-0 left-0 w-full p-6">
-                  <h3
-                    className={`text-xl md:text-2xl font-bold mb-2 text-cyber-${project.color} ${
-                      project.color === "blue"
-                        ? "neon-text"
-                        : `neon-text-${project.color}`
-                    }`}
-                  >
+                  <h3 className={`text-xl md:text-2xl font-bold mb-2 text-cyber-${project.color} neon-text-${project.color === "blue" ? "blue" : project.color === "pink" ? "pink" : project.color === "purple" ? "purple" : "green"}`}>
                     {project.title}
                   </h3>
                   
