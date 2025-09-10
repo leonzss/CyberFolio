@@ -69,8 +69,8 @@ const colorClasses = {
     text: "text-cyber-blue",
     bg: "bg-cyber-blue",
     border: "border-cyber-blue",
-    neon: "neon-text",         // default biru
-    neonBorder: "neon-border", // default biru
+    neon: "neon-text-blue",
+    neonBorder: "neon-border-blue",
   },
   purple: {
     text: "text-cyber-purple",
