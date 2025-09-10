@@ -239,7 +239,7 @@ body {
 }
 
 /* Neon Text */
-.neon-text {
+.neon-text-blue {
   text-shadow: 0 0 5px var(--cyber-blue), 0 0 10px var(--cyber-blue), 0 0 15px var(--cyber-blue);
 }
 
@@ -256,7 +256,7 @@ body {
 }
 
 /* Neon Border */
-.neon-border {
+.neon-border-blue {
   box-shadow: 0 0 5px var(--cyber-blue), 0 0 10px var(--cyber-blue);
   border: 1px solid var(--cyber-blue);
 }
