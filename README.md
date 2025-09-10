@@ -231,8 +231,8 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 Jika Anda memiliki pertanyaan atau ingin terhubung:
 
 - Email: anjasleonardi88@gmail.com
-- GitHub: [github.com/username](https://github.com/leonzss)
-- LinkedIn: [linkedin.com/in/username](https://www.linkedin.com/in/manjasleonardi)
+- GitHub: [github.com/leonzss](https://github.com/leonzss)
+- LinkedIn: [linkedin.com/in/manjasleonardi](https://www.linkedin.com/in/manjasleonardi)
 
 ---
 
