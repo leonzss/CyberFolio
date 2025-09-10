@@ -232,14 +232,10 @@ Jika Anda memiliki pertanyaan atau ingin terhubung:
 
 - Email: anjasleonardi88@gmail.com
 - GitHub: [github.com/username](https://github.com/leonzss)
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/bimadevs)
+- LinkedIn: [linkedin.com/in/username](https://www.linkedin.com/in/manjasleonardi)
 
 ---
 
 <p align="center">
   <img src="https://via.placeholder.com/100x100/0a0a0a/05d9e8?text=CF" alt="CYBERFOLIO Logo" width="100">
-</p>
-
-<p align="center">
-  Dibuat dengan ❤️ dan kode di BimSC
 </p>
