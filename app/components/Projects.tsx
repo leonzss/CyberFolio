@@ -20,7 +20,7 @@ const projects: Project[] = [
     description:
       "A cutting-edge web application with AI-powered features. Built with Python, TensorFlow / PyTorch, and OpenCV.",
     tags: ["Python", "Flask", "AI", "TensorFlow / PyTorch", "OpenCV"],
-    image: "#",
+    image: "",
     link: "https://github.com/leonzss/Classification-and-Detection-of-Roasted-Coffee-Beans",
     color: "pink",
   },
@@ -30,8 +30,8 @@ const projects: Project[] = [
     description:
       "The Caturtunggal Village E-Government System enables residents to access administrative services online.",
     tags: ["PHP", "Laravel", "Bootstrap", "Node.js"],
-    image: "#",
-    link: "https://github.com/leonzss/E-pelayanan-desa-caturtunggal",
+    image: "https://github.com/leonzss/E-pelayanan-desa-caturtunggal",
+    link: "#",
     color: "blue",
   },
   {
@@ -40,7 +40,7 @@ const projects: Project[] = [
     description:
       "A reservation system for coffee shops and restaurants that enables online table booking and efficient reservation management.",
     tags: ["PHP", "CodeIgniter 3", "HTML/CSS", "Bootstrap", "JavaScript"],
-    image: "#",
+    image: "/project3.jpg",
     link: "https://github.com/leonzss/Reservation-Coffee-and-Resto",
     color: "purple",
   },
@@ -50,8 +50,8 @@ const projects: Project[] = [
     description:
       "An administrative permit system that simplifies application submission and tracking while enhancing efficiency and transparency.",
     tags: ["PHP", "Laravel", "Filamentphp", "Livewire", "Leaflet", "Tailwind CSS"],
-    image: "#",
-    link: "https://sialap-dpmptsp.muaraenimkab.go.id",
+    image: "/project4.jpg",
+    link: "#",
     color: "green",
   },
 ];
@@ -162,7 +162,13 @@ const Projects = () => {
                 
                 {/* Project Info */}
                 <div className="absolute bottom-0 left-0 w-full p-6">
-                  <h3 className={`text-xl md:text-2xl font-bold mb-2 text-cyber-${project.color} neon-text-${project.color === "blue" ? "blue" : project.color === "pink" ? "pink" : project.color === "purple" ? "purple" : "green"}`}>
+                  <h3
+                    className={`text-xl md:text-2xl font-bold mb-2 text-cyber-${project.color} ${
+                      project.color === "blue"
+                        ? "neon-text"
+                        : `neon-text-${project.color}`
+                    }`}
+                  >
                     {project.title}
                   </h3>
                   
