@@ -62,29 +62,29 @@ const colorClasses = {
     text: "text-cyber-pink",
     bg: "bg-cyber-pink",
     border: "border-cyber-pink",
-    neon: "neon-text",         // ganti universal
-    neonBorder: "neon-border", // ganti universal
+    neon: "neon-text-pink",
+    neonBorder: "neon-border-pink",
   },
   blue: {
     text: "text-cyber-blue",
     bg: "bg-cyber-blue",
     border: "border-cyber-blue",
-    neon: "neon-text",
-    neonBorder: "neon-border",
+    neon: "neon-text-blue",
+    neonBorder: "neon-border-blue",
   },
   purple: {
     text: "text-cyber-purple",
     bg: "bg-cyber-purple",
     border: "border-cyber-purple",
-    neon: "neon-text",
-    neonBorder: "neon-border",
+    neon: "neon-text-purple",
+    neonBorder: "neon-border-purple",
   },
   green: {
     text: "text-cyber-green",
     bg: "bg-cyber-green",
     border: "border-cyber-green",
-    neon: "neon-text",
-    neonBorder: "neon-border",
+    neon: "neon-text-green",
+    neonBorder: "neon-border-green",
   },
 };
 
