@@ -20,7 +20,7 @@ const projects: Project[] = [
     description:
       "A cutting-edge web application with AI-powered features. Built with Python, TensorFlow / PyTorch, and OpenCV.",
     tags: ["Python", "Flask", "AI", "TensorFlow / PyTorch", "OpenCV"],
-    image: "",
+    image: "#",
     link: "https://github.com/leonzss/Classification-and-Detection-of-Roasted-Coffee-Beans",
     color: "pink",
   },
@@ -30,8 +30,8 @@ const projects: Project[] = [
     description:
       "The Caturtunggal Village E-Government System enables residents to access administrative services online.",
     tags: ["PHP", "Laravel", "Bootstrap", "Node.js"],
-    image: "https://github.com/leonzss/E-pelayanan-desa-caturtunggal",
-    link: "#",
+    image: "#",
+    link: "https://github.com/leonzss/E-pelayanan-desa-caturtunggal",
     color: "blue",
   },
   {
@@ -51,7 +51,7 @@ const projects: Project[] = [
       "An administrative permit system that simplifies application submission and tracking while enhancing efficiency and transparency.",
     tags: ["PHP", "Laravel", "Filamentphp", "Livewire", "Leaflet", "Tailwind CSS"],
     image: "/project4.jpg",
-    link: "#",
+    link: "https://sialap-dpmptsp.muaraenimkab.go.id",
     color: "green",
   },
 ];
